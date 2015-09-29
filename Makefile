@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 5
-EXTRAVERSION =
+EXTRAVERSION = Euphoria
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
